@@ -1,8 +1,4 @@
-<!-- TRANSLATION:IGNORE:START -->
-
 # Terminal Fincept ✨
-
-<!-- TRANSLATION:IGNORE:END -->
 
 <div align="center">
 
@@ -69,7 +65,7 @@ Inspirada en Bloomberg y Refinitiv, Fincept Terminal ofrece datos de mercado en 
 
 #### 🚀**Configuración rápida (automatizada)**
 
-**Para ventanas:**
+**Para Windows:**
 
 ```bash
 # 1. Clone the repository
