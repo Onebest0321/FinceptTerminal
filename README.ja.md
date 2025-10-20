@@ -1,8 +1,4 @@
-<!-- TRANSLATION:IGNORE:START -->
-
 # Finceptターミナル✨
-
-<!-- TRANSLATION:IGNORE:END -->
 
 <div align="center">
 
@@ -16,7 +12,7 @@
 
 **ブルームバーグレベルの洞察を誰にでも。オープンソース。クロスプラットフォーム。**
 
-[📥 ダウンロード](#-getting-started)•[✨ 特徴](#-features)•[📸 スクリーンショット](#-platform-preview)•[🤝 貢献する](#-contributing)
+[📥 ダウンロード](#-getting-started)•[✨ 特徴](#-features)•[📸 スクリーンショット](#-platform-preview) • [🤝 貢献する](#-contributing)
 
 ![Fincept Terminal](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Geopolitics.png)
 
@@ -24,7 +20,7 @@
 
 * * *
 
-## 🎯 Fincept ターミナルとは何ですか?
+## 🎯 What is Fincept Terminal?
 
 **フィンセプトターミナル**は、次の機能を備えた最新のクロスプラットフォーム金融端末です。**苦難**,**反応する**、 そして**TypeScript**。完全に無料でオープンソースの機関グレードの財務分析ツールを個人投資家やトレーダーに提供します。
 
@@ -43,7 +39,7 @@
 
 * * *
 
-## 🚀 はじめに
+## 🚀 Getting Started
 
 ### **オプション 1: Microsoft Store からダウンロードする**🎉
 
