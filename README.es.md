@@ -55,7 +55,7 @@ Inspirada en Bloomberg y Refinitiv, Fincept Terminal ofrece datos de mercado en 
 
 **Ventanas:**
 
--   📦[Descargar el instalador MSI](http://product.fincept.in/FinceptTerminalV2Alpha.msi)(Windows 10/11)
+-   📦[Descargar el instalador MSI](http://product.fincept.in/FinceptTerminalV2Alpha.msi) (Windows 10/11)
 
 **MacOS y Linux:**
 
@@ -65,7 +65,7 @@ Inspirada en Bloomberg y Refinitiv, Fincept Terminal ofrece datos de mercado en 
 
 #### 🚀**Configuración rápida (automatizada)**
 
-**Para ventanas:**
+**Para Windows:**
 
 ```bash
 # 1. Clone the repository
@@ -184,7 +184,7 @@ npm run tauri build
 
 ## 🛣️ Hoja de ruta
 
-### **Estado actual**
+### **Current Status**
 
 -   ✅ Marco de aplicación Tauri
 -   ✅ Sistema de autenticación (invitado + registrado)
@@ -203,7 +203,7 @@ npm run tauri build
 -   💼 Gestión de cartera
 -   🔔 Sistema de alerta
 
-### **Futuro**
+### **Future**
 
 -   🌍 Soporte en varios idiomas
 -   🏢 Integraciones de corredores
@@ -273,7 +273,7 @@ npm run tauri dev    # Start Tauri app
 **Actuación:**
 
 -   Tamaño binario: ~15 MB
--   Memoria: ~150 MB (frente a 500 MB+ para Electron)
+-   Memory: ~150MB (vs. 500MB+ for Electron)
 -   Inicio: &lt;2 segundos
 
 **Soporte de plataforma:**
