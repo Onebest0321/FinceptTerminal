@@ -1,4 +1,8 @@
+<!-- TRANSLATION:IGNORE:START -->
+
 # Finceptターミナル✨
+
+<!-- TRANSLATION:IGNORE:END -->
 
 <div align="center">
 
@@ -333,7 +337,7 @@ MIT ライセンス - を参照[ライセンス.txt](https://github.com/Fincept-
 
 * * *
 
-**注記：**以前のバージョンは Python/DearPyGUI で構築され、次の場所にアーカイブされています。`legacy-python-depreciated/`。現在の Tauri ベースのアプリケーションは、最新のテクノロジーを使用して完全に書き直されました。
+**注記：**以前のバージョンは Python/DearPyGUI で構築され、次の場所にアーカイブされています。`legacy-python-depreciated/`. The current Tauri-based application is a complete rewrite with modern technologies.
 
 * * *
 
