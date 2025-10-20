@@ -1,8 +1,4 @@
-<!-- TRANSLATION:IGNORE:START -->
-
 # 핀셉트 터미널 ✨
-
-<!-- TRANSLATION:IGNORE:END -->
 
 <div align="center">
 
@@ -26,7 +22,7 @@
 
 ## 🎯 핀셉트 터미널이란?
 
-**핀셉트 터미널**현대적인 크로스 플랫폼 금융 터미널입니다.**고난**,**반응하다**, 그리고**타입스크립트**. 이는 소매 투자자와 거래자에게 기관 수준의 재무 분석 도구를 제공하며 완전히 무료이며 오픈 소스입니다.
+**핀셉트 터미널**현대적인 크로스 플랫폼 금융 터미널입니다.**고난**,**반응하다**, 그리고**타입스크립트**. 개인 투자자와 거래자에게 기관 수준의 재무 분석 도구를 완전 무료 오픈 소스로 제공합니다.
 
 Bloomberg 및 Refinitiv에서 영감을 받은 Fincept Terminal은 기업 가격표 없이 실시간 시장 데이터, 고급 분석, AI 기반 통찰력 및 전문 인터페이스를 모두 제공합니다.
 
@@ -177,7 +173,7 @@ npm run tauri build
 | ![GlobalTrade](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/GlobalTrade.png) | ![Markets](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Markets.png) |
 |                                                      국제 무역 흐름                                                     |                                                실시간 다중 자산 시장                                               |
 
-|                                                         무역 분석                                                         |
+|                                                          무역분석                                                         |
 | :-------------------------------------------------------------------------------------------------------------------: |
 | ![TradeAnalysis](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/TradeAnalysis.png) |
 |                                                      고급 분석 및 백테스트                                                     |
@@ -199,7 +195,7 @@ npm run tauri build
 -   🚧 고급 차트 작성
 -   🚧 AI 비서
 
-### **출시 예정(2025년 2분기)**
+### **Coming Soon (Q2 2025)**
 
 -   📊 완전한 시장 데이터 스트리밍
 -   📈 50개 이상의 지표가 포함된 대화형 차트
