@@ -10,7 +10,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20FinceptTerminal&url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/&title=FinceptTerminal)[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Check%20out%20FinceptTerminal%3A%20https%3A//github.com/Fincept-Corporation/FinceptTerminal/)
 
-[英语](README.md)\|[西班牙语](README.es.md)\|[中文](README.zh.md)\|[日本人](README.ja.md)\|[法语](README.fr.md)
+[英语](README.md)\|[西班牙语](README.es.md)\|[中文](README.zh-CN.md)\|[日本人](README.ja.md)\|[法语](README.fr.md)\|[德语](README.de.md)\|[韩国人](README.ko.md)\|[印地语](README.hi.md)
 
 ### _专业财务分析平台_
 
@@ -175,7 +175,7 @@ npm run tauri build
 |                                                        全球贸易                                                       |                                                     市场                                                    |
 | :---------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------: |
 | ![GlobalTrade](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/GlobalTrade.png) | ![Markets](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Markets.png) |
-|                                                       国际贸易流量                                                      |                                                  实时多资产市场                                                  |
+|                                                       国际贸易流动                                                      |                                                  实时多资产市场                                                  |
 
 |                                                          贸易分析                                                         |
 | :-------------------------------------------------------------------------------------------------------------------: |
@@ -211,7 +211,7 @@ npm run tauri build
 
 -   🌍 多语言支持
 -   🏢 经纪商整合
--   📱 移动伴侣应用程序
+-   📱 移动配套应用程序
 -   🔌插件系统
 -   🎨 主题市场
 
