@@ -42,8 +42,8 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: de
-      - name: Translate to Hindu
+      - name: Translate to Hindi
         uses: dephraiim/translate-readme@main
         with:
           LANG: hi
-          
+
