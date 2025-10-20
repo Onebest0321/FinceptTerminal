@@ -10,7 +10,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20FinceptTerminal&url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/&title=FinceptTerminal)[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Check%20out%20FinceptTerminal%3A%20https%3A//github.com/Fincept-Corporation/FinceptTerminal/)
 
-[Anglais](README.md)\|[Espagnol](README.es.md)\|[Chinois](README.zh.md)\|[japonais](README.ja.md)\|[Français](README.fr.md)
+[Anglais](README.md)\|[Espagnol](README.es.md)\|[Chinois](README.zh-CN.md)\|[japonais](README.ja.md)\|[Français](README.fr.md)\|[Allemand](README.de.md)\|[coréen](README.ko.md)\|[hindi](README.hi.md)
 
 ### _Plateforme d'analyse financière professionnelle_
 
@@ -132,7 +132,8 @@ npm run tauri build
 
 ### 🧠 Analyse basée sur l'IA
 
-🤖 Interface de discussion GenAI<br>📊 Analyse des sentiments en temps réel<br>💡 Informations et recommandations basées sur l'IA<br>🎯 Reconnaissance automatisée des formes
+🤖 Interface de discussion GenAI<br>📊 Analyse des sentiments en temps réel<br>
+💡 AI-driven insights & recommendations<br>🎯 Reconnaissance automatisée des formes
 
 </td>
 <td width="50%">
@@ -333,7 +334,7 @@ Licence MIT - voir[LICENCE.txt](https://github.com/Fincept-Corporation/FinceptTe
 
 ## 🙏 Remerciements
 
-Construit avec :[Épreuves](https://tauri.app/)•[Réagir](https://react.dev/)•[Rouiller](https://www.rust-lang.org/)•[Vent arrièreCSS](https://tailwindcss.com/)•[Radix UI](https://www.radix-ui.com/)
+Construit avec :[Épreuves](https://tauri.app/)•[Réagir](https://react.dev/)•[Rouiller](https://www.rust-lang.org/)•[TailwindCSS](https://tailwindcss.com/)•[Radix UI](https://www.radix-ui.com/)
 
 * * *
 

@@ -10,7 +10,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20FinceptTerminal&url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/&title=FinceptTerminal)[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Check%20out%20FinceptTerminal%3A%20https%3A//github.com/Fincept-Corporation/FinceptTerminal/)
 
-[अंग्रेज़ी](README.md)\|[स्पैनिश](README.es.md)\|[चीनी](README.zh.md)\|[जापानी](README.ja.md)\|[फ़्रेंच](README.fr.md)
+[अंग्रेज़ी](README.md)\|[स्पैनिश](README.es.md)\|[चीनी](README.zh-CN.md)\|[जापानी](README.ja.md)\|[फ़्रेंच](README.fr.md)\|[जर्मन](README.de.md)\|[कोरियाई](README.ko.md)\|[हिन्दी](README.hi.md)
 
 ### _व्यावसायिक वित्तीय विश्लेषण मंच_
 
@@ -132,7 +132,8 @@ npm run tauri build
 
 ### 🧠एआई-संचालित विश्लेषण
 
-🤖 GenAI चैट इंटरफ़ेस<br>📊 वास्तविक समय भावना विश्लेषण<br>💡एआई-संचालित अंतर्दृष्टि और सिफारिशें<br>🎯 स्वचालित पैटर्न पहचान
+🤖 GenAI चैट इंटरफ़ेस<br>
+📊 Real-time sentiment analysis<br>💡एआई-संचालित अंतर्दृष्टि और सिफारिशें<br>🎯 स्वचालित पैटर्न पहचान
 
 </td>
 <td width="50%">
@@ -221,7 +222,7 @@ npm run tauri build
 
 हम डेवलपर्स, व्यापारियों और वित्तीय पेशेवरों के योगदान का स्वागत करते हैं!
 
-**Ways to contribute:**
+**योगदान देने के तरीके:**
 
 -   🐛 बग और समस्याओं की रिपोर्ट करें
 -   💡नई सुविधाएँ सुझाएँ

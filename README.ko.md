@@ -10,7 +10,7 @@
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/intent/tweet?text=Check%20out%20FinceptTerminal&url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/sharing/share-offsite/?url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/sharer/sharer.php?u=https%3A//github.com/Fincept-Corporation/FinceptTerminal/)[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=flat-square&logo=reddit&logoColor=white)](https://www.reddit.com/submit?url=https%3A//github.com/Fincept-Corporation/FinceptTerminal/&title=FinceptTerminal)[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?text=Check%20out%20FinceptTerminal%3A%20https%3A//github.com/Fincept-Corporation/FinceptTerminal/)
 
-[영어](README.md)\|[스페인 사람](README.es.md)\|[중국인](README.zh.md)\|[일본어](README.ja.md)\|[프랑스 국민](README.fr.md)
+[영어](README.md)\|[스페인 사람](README.es.md)\|[중국인](README.zh-CN.md)\|[일본어](README.ja.md)\|[프랑스 국민](README.fr.md)\|[독일 사람](README.de.md)\|[한국어](README.ko.md)\|[힌디 어](README.hi.md)
 
 ### _전문 재무 분석 플랫폼_
 
@@ -26,7 +26,7 @@
 
 ## 🎯 핀셉트 터미널이란?
 
-**핀셉트 터미널**현대적인 크로스 플랫폼 금융 터미널입니다.**고난**,**반응하다**, 그리고**타입스크립트**. 개인 투자자와 거래자에게 기관 수준의 재무 분석 도구를 완전 무료 오픈 소스로 제공합니다.
+**핀셉트 터미널**현대적인 크로스 플랫폼 금융 터미널입니다.**고난**,**반응하다**, 그리고**타입스크립트**. 이는 소매 투자자와 거래자에게 기관 수준의 재무 분석 도구를 제공하며 완전히 무료이며 오픈 소스입니다.
 
 Bloomberg 및 Refinitiv에서 영감을 받은 Fincept Terminal은 기업 가격표 없이 실시간 시장 데이터, 고급 분석, AI 기반 통찰력 및 전문 인터페이스를 모두 제공합니다.
 
@@ -177,7 +177,7 @@ npm run tauri build
 | ![GlobalTrade](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/GlobalTrade.png) | ![Markets](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/Markets.png) |
 |                                                      국제 무역 흐름                                                     |                                                실시간 다중 자산 시장                                               |
 
-|                                                          무역분석                                                         |
+|                                                         무역 분석                                                         |
 | :-------------------------------------------------------------------------------------------------------------------: |
 | ![TradeAnalysis](https://raw.githubusercontent.com/Fincept-Corporation/FinceptTerminal/main/images/TradeAnalysis.png) |
 |                                                      고급 분석 및 백테스트                                                     |
@@ -333,7 +333,7 @@ MIT 라이센스 - 참조[라이센스.txt](https://github.com/Fincept-Corporati
 
 ## 🙏 감사의 말씀
 
-다음으로 제작:[고난](https://tauri.app/)•[반응하다](https://react.dev/)•[녹](https://www.rust-lang.org/)•[순풍CSS](https://tailwindcss.com/)•[Radix UI](https://www.radix-ui.com/)
+다음으로 제작:[고난](https://tauri.app/)•[반응하다](https://react.dev/)•[녹](https://www.rust-lang.org/)•[순풍CSS](https://tailwindcss.com/)•[기수 UI](https://www.radix-ui.com/)
 
 * * *
 
