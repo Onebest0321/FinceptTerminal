@@ -34,3 +34,15 @@ jobs:
         uses: dephraiim/translate-readme@main
         with:
           LANG: fr
+      - name: Translate to Korean
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: ko
+      - name: Translate to German
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: de
+      - name: Translate to Hindu
+        uses: dephraiim/translate-readme@main
+        with:
+          LANG: hi

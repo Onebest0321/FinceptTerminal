@@ -1,5 +1,6 @@
+<!-- TRANSLATION:IGNORE:START -->
 # Fincept Terminal ✨
-
+<!-- TRANSLATION:IGNORE:END -->
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-C06524)](https://github.com/Fincept-Corporation/FinceptTerminal/blob/main/LICENSE.txt)
