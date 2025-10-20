@@ -1,8 +1,4 @@
-<!-- TRANSLATION:IGNORE:START -->
-
 # Terminal Fincept ✨
-
-<!-- TRANSLATION:IGNORE:END -->
 
 <div align="center">
 
@@ -132,8 +128,7 @@ npm run tauri build
 
 ### 🧠 Analyse basée sur l'IA
 
-🤖 Interface de discussion GenAI<br>📊 Analyse des sentiments en temps réel<br>
-💡 AI-driven insights & recommendations<br>🎯 Reconnaissance automatisée des formes
+🤖 Interface de discussion GenAI<br>📊 Analyse des sentiments en temps réel<br>💡 Informations et recommandations basées sur l'IA<br>🎯 Reconnaissance automatisée des formes
 
 </td>
 <td width="50%">
@@ -205,7 +200,7 @@ npm run tauri build
 -   📊 Streaming complet des données de marché
 -   📈 Graphiques interactifs avec plus de 50 indicateurs
 -   🤖 Production AI features
--   💼 Gestion de portefeuille
+-   💼 Portfolio management
 -   🔔 Système d'alerte
 
 ### **Avenir**
@@ -287,7 +282,7 @@ npm run tauri dev    # Start Tauri app
 -   ✅ macOS 11+ (Intel, Apple Silicon)
 -   ✅Linux (Ubuntu, Debian, Fedora)
 
-**Sécurité:**
+**Security:**
 
 -   Environnement bac à sable Tauri
 -   Pas d'exécution Node.js
@@ -334,7 +329,7 @@ Licence MIT - voir[LICENCE.txt](https://github.com/Fincept-Corporation/FinceptTe
 
 ## 🙏 Remerciements
 
-Construit avec :[Épreuves](https://tauri.app/)•[Réagir](https://react.dev/)•[Rouiller](https://www.rust-lang.org/)•[TailwindCSS](https://tailwindcss.com/)•[Radix UI](https://www.radix-ui.com/)
+Construit avec :[Épreuves](https://tauri.app/)•[Réagir](https://react.dev/)•[Rouiller](https://www.rust-lang.org/)•[Vent arrièreCSS](https://tailwindcss.com/)•[Radix UI](https://www.radix-ui.com/)
 
 * * *
 
