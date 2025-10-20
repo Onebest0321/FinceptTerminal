@@ -8,11 +8,14 @@ on:
 jobs:
   translate:
     runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        lang: [es, zh-CN, ja, fr]   
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Translate README (readme-translator)
+      - name: Translate README to ${{ matrix.lang }}
         uses: dephraiim/translate-readme@main
         with:
-          LANG: es,zh-CN,ja,fr
+          LANG: ${{ matrix.lang }}
