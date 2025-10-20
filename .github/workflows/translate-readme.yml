@@ -4,11 +4,13 @@ on:
   push:
     paths:
       - 'README.md'
+  workflow_dispatch:  # Allows manual triggering from GitHub Actions tab
 
 jobs:
   translate:
     runs-on: ubuntu-latest
     strategy:
+      max-parallel: 1
       matrix:
         lang: [es, zh-CN, ja, fr]   
     steps:
