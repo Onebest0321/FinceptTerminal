@@ -1,4 +1,8 @@
+<!-- TRANSLATION:IGNORE:START -->
+
 # Terminal Fincept ✨
+
+<!-- TRANSLATION:IGNORE:END -->
 
 <div align="center">
 
