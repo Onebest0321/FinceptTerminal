@@ -339,10 +339,11 @@ Built with: [Tauri](https://tauri.app/) • [React](https://react.dev/) • [Rus
 
 **Note:** An earlier version was built with Python/DearPyGUI and is archived in `legacy-python-depreciated/`. The current Tauri-based application is a complete rewrite with modern technologies.
 
+**Note:** This is a test 
 ---
 
 <div align="center">
 
-**© 2024-2025 Fincept Corporation • Open Source • MIT License**
+**© 2024-2025 Fincept Corporation • Open Source • MIT License** 
 
 </div>
